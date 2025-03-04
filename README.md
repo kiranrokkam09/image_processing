@@ -20,8 +20,9 @@ This project is an **Image Processing System** that accepts a CSV file containin
 
 ## Installation
 ### Prerequisites
-- Python 3.9+
+- Python 3.10+
 - Redis (running on WSL)
+- Celery (running on WSL)
 
 ### Setup
 ```bash
